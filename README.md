@@ -1,11 +1,18 @@
 # Electronic-shopping-Bot
 resoures :
+
 Nodejs
+
 git
+
 npm 
+
 nodemon
+
 massenger platform
+
 heroku 
+
 facebook developer
 ______________________________
 material  :
@@ -20,8 +27,11 @@ _______________________________
 What can this bot do:
 
 1-Showing categories
+
 2-Looking up order
+
 3-Talking with "real" live agent (if the user request)
+
 4- buy orders
 
 _____________________________________________________
