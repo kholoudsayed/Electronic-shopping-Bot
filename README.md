@@ -25,4 +25,4 @@ What can this bot do:
 4- buy orders
 
 _____________________________________________________
-Page link : </a https://www.facebook.com/Electronic-shopping-Bot-103144111594255>
+Page link :  https://www.facebook.com/Electronic-shopping-Bot-103144111594255 
